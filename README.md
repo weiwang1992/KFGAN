@@ -1,4 +1,4 @@
-#Knowledge-aware Fine-grained Attention Networks with Refined Knowledge Graph Embedding for Personalized Recommendation
+#Knowledge-aware Fine-grained Attention Networks with Refined Knowledge Graph Embedding for Personalized Recommendation.
 This is our Pytorch implementation for the paper:
 
 
