@@ -40,6 +40,6 @@ graph for recommender systems](https://github.com/hwwang55/RippleNet)" to proces
 
 ## Citation
 
-
+Wang W, Shen X, Yi B, et al. Knowledge-aware fine-grained attention networks with refined knowledge graph embedding for personalized recommendation[J]. Expert Systems with Applications, 2024: 123710.
 ```
 
